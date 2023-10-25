@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MDI0P Pin=T1-1
+Removed Pin From Net: NetName=MDI0N Pin=T1-3
+Removed Pin From Net: NetName=MDI1P Pin=T1-6
+Removed Pin From Net: NetName=MDI1N Pin=T1-8
+Removed Pin From Net: NetName=TPTXN_CON Pin=T1-9
+Removed Pin From Net: NetName=TPTXP_CON Pin=T1-11
+Removed Pin From Net: NetName=TPRXN_CON Pin=T1-14
+Removed Pin From Net: NetName=TPRXP_CON Pin=T1-16
+Added Pin To Net: NetName=MDI1N Pin=T1-1
+Added Pin To Net: NetName=MDI1P Pin=T1-3
+Added Pin To Net: NetName=MDI0N Pin=T1-6
+Added Pin To Net: NetName=MDI0P Pin=T1-8
+Added Pin To Net: NetName=TPRXP_CON Pin=T1-9
+Added Pin To Net: NetName=TPRXN_CON Pin=T1-11
+Added Pin To Net: NetName=TPTXP_CON Pin=T1-14
+Added Pin To Net: NetName=TPTXN_CON Pin=T1-16

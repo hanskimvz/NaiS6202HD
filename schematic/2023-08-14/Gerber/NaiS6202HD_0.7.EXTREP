@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: NaiS6202HD_0.7.GBR   2023-08-14  ¿ÀÈÄ 12:04:31
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top                                     
+.G1                 INT1                                    
+.G2                 GND                                     
+.GBL                Bottom                                  
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Silkscreen Top                          
+.GTP                Paste Mask Top                          
+.GTS                Solder Mask Top                         
+.GBS                Solder Mask Bottom                      
+.GBP                Paste Mask Bottom                       
+.GBO                Silkscreen Bottom                       
+.GM1                Assembly Drawing Top                    
+.GM2                Assembly Drawing Bottom                 
+.GM3                Outline                                 
+.GKO                Keep-Out Layer                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

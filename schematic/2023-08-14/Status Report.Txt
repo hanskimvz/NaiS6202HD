@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [NaiS6202HD_0.7.PcbDoc]
+   Generated File[Pick Place for NaiS6202HD_0.7.txt]
+   Generated File[Pick Place for NaiS6202HD_0.7.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÈÄ 12:04:44 On 2023-08-14

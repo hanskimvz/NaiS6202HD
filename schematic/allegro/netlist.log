@@ -1,0 +1,110 @@
+{ Using PSTWRITER 17.2.0 d001Aug-04-2023 at 00:33:33 }
+
+#1 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH4: NAIS6202HD, 02-CONNECTOR (63.50, 7.62) .
+#2 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance TP3: NAIS6202HD, 02-CONNECTOR (63.50, 180.34) .
+#3 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance TP2: NAIS6202HD, 02-CONNECTOR (381.00, 38.10) .
+#4 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance TP1: NAIS6202HD, 02-CONNECTOR (381.00, 17.78) .
+#5 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance PC1: NAIS6202HD, 06-DIDO (304.80, 48.26).
+#6 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance TP4: NAIS6202HD, 02-CONNECTOR (63.50, 182.88) .
+#7 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH2: NAIS6202HD, 02-CONNECTOR (27.94, 7.62) .
+#8 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH3: NAIS6202HD, 02-CONNECTOR (45.72, 7.62) .
+#9 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U2: NAIS6202HD, 03-ETHERNET (294.64, 165.10) .
+#10 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH1: NAIS6202HD, 02-CONNECTOR (10.16, 7.62) .
+#11 ERROR(ORCAP-36041): Duplicate Pin Name "CT" found on Package HA-003_0 , T1 Pin Number 7: NAIS6202HD, 03-ETHERNET (162.56, 231.14). Please renumber one of these.
+#12 ERROR(ORCAP-36041): Duplicate Pin Name "CT" found on Package HA-003_0 , T1 Pin Number 10: NAIS6202HD, 03-ETHERNET (162.56, 231.14). Please renumber one of these.
+#13 ERROR(ORCAP-36041): Duplicate Pin Name "CT" found on Package HA-003_0 , T1 Pin Number 15: NAIS6202HD, 03-ETHERNET (162.56, 231.14). Please renumber one of these.
+#14 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC12: NAIS6202HD, 03-ETHERNET (185.42, 152.40). All pins should be numbered.
+#15 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC12: NAIS6202HD, 03-ETHERNET (185.42, 152.40). All pins should be numbered.
+#16 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC20: NAIS6202HD, 06-DIDO (132.08, 142.24). All pins should be numbered.
+#17 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC20: NAIS6202HD, 06-DIDO (132.08, 142.24). All pins should be numbered.
+#18 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC7: NAIS6202HD, 03-ETHERNET (360.68, 58.42). All pins should be numbered.
+#19 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC7: NAIS6202HD, 03-ETHERNET (360.68, 58.42). All pins should be numbered.
+#20 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C9: NAIS6202HD, 03-ETHERNET (378.46, 175.26). All pins should be numbered.
+#21 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C9: NAIS6202HD, 03-ETHERNET (378.46, 175.26). All pins should be numbered.
+#22 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC21: NAIS6202HD, 06-DIDO (104.14, 175.26). All pins should be numbered.
+#23 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC21: NAIS6202HD, 06-DIDO (104.14, 175.26). All pins should be numbered.
+#24 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC11: NAIS6202HD, 03-ETHERNET (160.02, 152.40). All pins should be numbered.
+#25 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC11: NAIS6202HD, 03-ETHERNET (160.02, 152.40). All pins should be numbered.
+#26 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C22: NAIS6202HD, 05-SD_card_RTC (215.90, 81.28). All pins should be numbered.
+#27 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C22: NAIS6202HD, 05-SD_card_RTC (215.90, 81.28). All pins should be numbered.
+#28 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC10: NAIS6202HD, 03-ETHERNET (185.42, 137.16). All pins should be numbered.
+#29 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC10: NAIS6202HD, 03-ETHERNET (185.42, 137.16). All pins should be numbered.
+#30 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC1: NAIS6202HD, 02-CONNECTOR (393.70, 238.76). All pins should be numbered.
+#31 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC1: NAIS6202HD, 02-CONNECTOR (393.70, 238.76). All pins should be numbered.
+#32 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C19: NAIS6202HD, 04-POWER (195.58, 83.82). All pins should be numbered.
+#33 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C19: NAIS6202HD, 04-POWER (195.58, 83.82). All pins should be numbered.
+#34 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C23: NAIS6202HD, 05-SD_card_RTC (231.14, 81.28). All pins should be numbered.
+#35 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C23: NAIS6202HD, 05-SD_card_RTC (231.14, 81.28). All pins should be numbered.
+#36 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC2: NAIS6202HD, 03-ETHERNET (342.90, 35.56). All pins should be numbered.
+#37 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC2: NAIS6202HD, 03-ETHERNET (342.90, 35.56). All pins should be numbered.
+#38 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C4: NAIS6202HD, 03-ETHERNET (167.64, 33.02). All pins should be numbered.
+#39 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C4: NAIS6202HD, 03-ETHERNET (167.64, 33.02). All pins should be numbered.
+#40 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C18: NAIS6202HD, 04-POWER (200.66, 81.28). All pins should be numbered.
+#41 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C18: NAIS6202HD, 04-POWER (200.66, 81.28). All pins should be numbered.
+#42 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC3: NAIS6202HD, 03-ETHERNET (360.68, 35.56). All pins should be numbered.
+#43 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC3: NAIS6202HD, 03-ETHERNET (360.68, 35.56). All pins should be numbered.
+#44 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C20: NAIS6202HD, 04-POWER (198.12, 144.78). All pins should be numbered.
+#45 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C20: NAIS6202HD, 04-POWER (198.12, 144.78). All pins should be numbered.
+#46 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C5: NAIS6202HD, 03-ETHERNET (281.94, 68.58). All pins should be numbered.
+#47 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C5: NAIS6202HD, 03-ETHERNET (281.94, 68.58). All pins should be numbered.
+#48 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C17: NAIS6202HD, 04-POWER (142.24, 73.66). All pins should be numbered.
+#49 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C17: NAIS6202HD, 04-POWER (142.24, 73.66). All pins should be numbered.
+#50 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C21: NAIS6202HD, 04-POWER (243.84, 147.32). All pins should be numbered.
+#51 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C21: NAIS6202HD, 04-POWER (243.84, 147.32). All pins should be numbered.
+#52 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C26: NAIS6202HD, 06-DIDO (165.10, 200.66). All pins should be numbered.
+#53 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C26: NAIS6202HD, 06-DIDO (165.10, 200.66). All pins should be numbered.
+#54 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C6: NAIS6202HD, 03-ETHERNET (281.94, 71.12). All pins should be numbered.
+#55 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C6: NAIS6202HD, 03-ETHERNET (281.94, 71.12). All pins should be numbered.
+#56 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C16: NAIS6202HD, 04-POWER (269.24, 71.12). All pins should be numbered.
+#57 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C16: NAIS6202HD, 04-POWER (269.24, 71.12). All pins should be numbered.
+#58 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C7: NAIS6202HD, 03-ETHERNET (281.94, 73.66). All pins should be numbered.
+#59 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C7: NAIS6202HD, 03-ETHERNET (281.94, 73.66). All pins should be numbered.
+#60 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C15: NAIS6202HD, 04-POWER (248.92, 71.12). All pins should be numbered.
+#61 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C15: NAIS6202HD, 04-POWER (248.92, 71.12). All pins should be numbered.
+#62 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C24: NAIS6202HD, 06-DIDO (185.42, 137.16). All pins should be numbered.
+#63 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C24: NAIS6202HD, 06-DIDO (185.42, 137.16). All pins should be numbered.
+#64 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C14: NAIS6202HD, 04-POWER (119.38, 71.12). All pins should be numbered.
+#65 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C14: NAIS6202HD, 04-POWER (119.38, 71.12). All pins should be numbered.
+#66 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C1: NAIS6202HD, 02-CONNECTOR (20.32, 172.72). All pins should be numbered.
+#67 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C1: NAIS6202HD, 02-CONNECTOR (20.32, 172.72). All pins should be numbered.
+#68 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C25: NAIS6202HD, 06-DIDO (195.58, 137.16). All pins should be numbered.
+#69 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C25: NAIS6202HD, 06-DIDO (195.58, 137.16). All pins should be numbered.
+#70 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC19: NAIS6202HD, 06-DIDO (147.32, 33.02). All pins should be numbered.
+#71 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC19: NAIS6202HD, 06-DIDO (147.32, 33.02). All pins should be numbered.
+#72 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C13: NAIS6202HD, 04-POWER (198.12, 66.04). All pins should be numbered.
+#73 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C13: NAIS6202HD, 04-POWER (198.12, 66.04). All pins should be numbered.
+#74 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C12: NAIS6202HD, 03-ETHERNET (251.46, 261.62). All pins should be numbered.
+#75 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C12: NAIS6202HD, 03-ETHERNET (251.46, 261.62). All pins should be numbered.
+#76 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C2: NAIS6202HD, 02-CONNECTOR (86.36, 226.06). All pins should be numbered.
+#77 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C2: NAIS6202HD, 02-CONNECTOR (86.36, 226.06). All pins should be numbered.
+#78 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC8: NAIS6202HD, 03-ETHERNET (147.32, 127.00). All pins should be numbered.
+#79 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC8: NAIS6202HD, 03-ETHERNET (147.32, 127.00). All pins should be numbered.
+#80 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C11: NAIS6202HD, 03-ETHERNET (251.46, 236.22). All pins should be numbered.
+#81 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C11: NAIS6202HD, 03-ETHERNET (251.46, 236.22). All pins should be numbered.
+#82 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP , BC9: NAIS6202HD, 03-ETHERNET (132.08, 129.54). All pins should be numbered.
+#83 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP , BC9: NAIS6202HD, 03-ETHERNET (132.08, 129.54). All pins should be numbered.
+#84 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C3: NAIS6202HD, 03-ETHERNET (127.00, 33.02). All pins should be numbered.
+#85 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C3: NAIS6202HD, 03-ETHERNET (127.00, 33.02). All pins should be numbered.
+#86 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C10: NAIS6202HD, 03-ETHERNET (162.56, 215.90). All pins should be numbered.
+#87 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C10: NAIS6202HD, 03-ETHERNET (162.56, 215.90). All pins should be numbered.
+#88 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC17: NAIS6202HD, 04-POWER (231.14, 147.32). All pins should be numbered.
+#89 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC17: NAIS6202HD, 04-POWER (231.14, 147.32). All pins should be numbered.
+#90 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC16: NAIS6202HD, 04-POWER (121.92, 144.78). All pins should be numbered.
+#91 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC16: NAIS6202HD, 04-POWER (121.92, 144.78). All pins should be numbered.
+#92 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP , BC15: NAIS6202HD, 03-ETHERNET (144.78, 154.94). All pins should be numbered.
+#93 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP , BC15: NAIS6202HD, 03-ETHERNET (144.78, 154.94). All pins should be numbered.
+#94 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP , BC4: NAIS6202HD, 03-ETHERNET (327.66, 38.10). All pins should be numbered.
+#95 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP , BC4: NAIS6202HD, 03-ETHERNET (327.66, 38.10). All pins should be numbered.
+#96 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC14: NAIS6202HD, 03-ETHERNET (210.82, 152.40). All pins should be numbered.
+#97 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC14: NAIS6202HD, 03-ETHERNET (210.82, 152.40). All pins should be numbered.
+#98 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP , BC5: NAIS6202HD, 03-ETHERNET (327.66, 60.96). All pins should be numbered.
+#99 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP , BC5: NAIS6202HD, 03-ETHERNET (327.66, 60.96). All pins should be numbered.
+#100 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC13: NAIS6202HD, 03-ETHERNET (198.12, 152.40). All pins should be numbered.
+#101 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC13: NAIS6202HD, 03-ETHERNET (198.12, 152.40). All pins should be numbered.
+#102 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , C8: NAIS6202HD, 03-ETHERNET (281.94, 76.20). All pins should be numbered.
+#103 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , C8: NAIS6202HD, 03-ETHERNET (281.94, 76.20). All pins should be numbered.
+#104 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package CAP NP , BC6: NAIS6202HD, 03-ETHERNET (342.90, 58.42). All pins should be numbered.
+#105 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package CAP NP , BC6: NAIS6202HD, 03-ETHERNET (342.90, 58.42). All pins should be numbered.
+#106 INFO(ORCAP-36107):  PCB Editor does not support Dots(.), Forward Slash(/) and White space in footprint names. The supported characters include Alphabets, Numerics, Underscore(_) and Hyphen(-).
+
+#107 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.

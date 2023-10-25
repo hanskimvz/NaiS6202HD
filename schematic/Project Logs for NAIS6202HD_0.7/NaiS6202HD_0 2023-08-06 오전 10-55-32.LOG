@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ETH_RST Pin=U2-3
+Removed Pin From Net: NetName=ETH_INTB Pin=U2-4
+Removed Pin From Net: NetName=INT_N Pin=U2-11
+Removed Pin From Net: NetName=RESET_N Pin=U2-12
+Added Pin To Net: NetName=ETH_INTB Pin=U2-3
+Added Pin To Net: NetName=ETH_RST Pin=U2-4
+Added Pin To Net: NetName=RESET_N Pin=U2-11
+Added Pin To Net: NetName=INT_N Pin=U2-12

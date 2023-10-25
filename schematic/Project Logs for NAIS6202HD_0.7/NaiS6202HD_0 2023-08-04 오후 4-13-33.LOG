@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MIPI_CSI_D2_P Pin=J3-21
+Removed Pin From Net: NetName=MIPI_CSI_D2_N Pin=J3-22
+Removed Pin From Net: NetName=MIPI_CSI_CLK1_DP Pin=J3-24
+Removed Pin From Net: NetName=MIPI_CSI_CLK1_DN Pin=J3-25
+Removed Pin From Net: NetName=MIPI_CSI_D3_P Pin=J3-27
+Removed Pin From Net: NetName=MIPI_CSI_D3_N Pin=J3-28
+Added Pin To Net: NetName=MIPI_CSI_D2_N Pin=J3-21
+Added Pin To Net: NetName=MIPI_CSI_D2_P Pin=J3-22
+Added Pin To Net: NetName=MIPI_CSI_CLK1_DN Pin=J3-24
+Added Pin To Net: NetName=MIPI_CSI_CLK1_DP Pin=J3-25
+Added Pin To Net: NetName=MIPI_CSI_D3_N Pin=J3-27
+Added Pin To Net: NetName=MIPI_CSI_D3_P Pin=J3-28
